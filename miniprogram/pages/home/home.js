@@ -1,7 +1,7 @@
 Page({
   cick(){
     wx.navigateTo({
-      url: '../service/service',
+      url: '../service/service', 
     })
   }
 });
