@@ -1,0 +1,4 @@
+<!-- home.wxml -->
+<view class="container" bindtap="cick">
+  <text>邹亚敏</text>
+</view>

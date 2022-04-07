@@ -1,0 +1,32 @@
+page{
+  background-color: rgb(241, 242, 243);
+}
+.box{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+  padding:0 15px;
+}
+
+.item{
+    color: black;
+    width:48%;
+    height: 120px; 
+    background-color: white;
+    border-radius: 15rpx;
+    margin-top: 10px; 
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+    } 
+
+  text{
+    font-size: 14px;
+  }
+  .item>image{
+    width:80rpx;
+    height:80rpx;
+  }
