@@ -1,0 +1,51 @@
+<!-- areas.wxml -->
+<view class="container">
+  <!-- wx:for="11111" -->
+  <view class="info" >
+    <view class="point">河北省廊坊市霸州市</view>
+    <view class="deails">
+      <view class="detail1">胜芳镇欧韵城小区</view>
+      <view class="detail2">高风险</view>
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">黑龙江省佳木斯市汤原县</view>
+    <view class="deails">
+      <view class="detail1">阳光河畔小区</view>
+      <view class="detail2">高风险</view>
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">吉林省吉林市昌邑区</view>
+    <view class="deails">
+      <view class="detail1">九站街道农校社区八委十组（九龙路以南、经开大街以东、翰林路以南）</view>
+      <view class="detail2">高风险</view>
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">吉林省长春市绿园区</view>
+    <view class="deails">
+      <view class="detail1">青年路街道宇航社区</view>
+      <view class="detail2">高风险</view>
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">吉林省长春市九台区</view>
+    <view class="deails">
+      <view class="detail1">九郊街道新洲社区</view>
+      <view class="detail2">高风险</view>
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">吉林省长春市九台区</view>
+    <view class="deails">
+      <view class="detail1">宽城区团山街道南街社区</view>
+      <view class="detail2">高风险</view>
+    </view>
+  </view>
+</view>

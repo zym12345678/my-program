@@ -4,29 +4,36 @@ page{
 .box{
   display: flex;
   flex-wrap: wrap;
-  width: 100%;
+  /* width: 100%; */
   justify-content: space-between;
-  padding:0 15px;
+  /* justify-content: space-around; */
+  margin:0 30rpx;
 }
 
 .item{
     color: black;
-    width:48%;
-    height: 120px; 
+    /* 控制每个item左右间距 */
+    width:48%; 
+    /* 控制每个item上下间距  */
+    margin-top: 40rpx; 
+    height: 240rpx; 
     background-color: white;
     border-radius: 15rpx;
-    margin-top: 10px; 
 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-    } 
+    display: flex;
+    /* 主轴为垂直方向(上下) */
+    flex-direction: column;
+    /* 在主轴上居中对齐 */
+    justify-content: center;
+    /* 在交叉轴上居中对齐 */
+    align-items: center;
+  } 
 
-  text{
-    font-size: 14px;
+  .items{
+    font-size: 26rpx;
+    padding: 26rpx 0;
   }
   .item>image{
-    width:80rpx;
-    height:80rpx;
+    width:40rpx;
+    height:40rpx;
   }

@@ -1,0 +1,34 @@
+<!-- problem.wxml -->
+<view class="top">
+</view>
+<view class="container">
+    <text class="point">常见问题</text>
+    <view class="items">
+      <text class="item1">健康打卡是干什么的</text>
+      <text class="item2">></text>
+    </view>
+    <view class="items">
+      <text class="item1">身份证能不能二次注册</text>
+      <text class="item2">></text>
+    </view>
+    <view class="items">
+      <text class="item1">农村居民如何填写楼号</text>
+      <text class="item2">></text>
+    </view>
+    <view class="items">
+      <text>如何在公共场合扫描二维码出示一码通</text>
+      <text class="item2">></text>
+    </view>
+    <view class="items">
+      <text>如何在乘坐公共交通工具时出示一码通</text>
+      <text class="item2">></text>
+    </view>
+    <view class="items">
+      <text>陕西一码通颜色怎么变化</text>
+      <text class="item2">></text>
+    </view>
+    <view class="items">
+      <text>如何使用其他微信号登录陕西一码通</text>
+      <text class="item2">></text>
+    </view>
+</view>

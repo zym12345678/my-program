@@ -1,44 +1,41 @@
 <view class="box">
   <view class="item">
-    <view>
-      <img src="./img/品类5@2x.png" alt=""/>
-    </view>
-    <text>客服电话12345</text>
+    <image src="./img/品类5@2x.png" alt=""/>
+    <view class="items">客服电话12345</view>
   </view>
  
   <view class="item">
     <image src="./img/我的未选中@2x.png" alt=""/>
-    <view><text>各市区县咨询电话</text></view>
-    <view><text>029-123</text></view>
+    <view class="items">各市区县咨询电话</view>
   </view>
 
   <view class="item">
-    <img src="./img/购物车未选中@2x.png" alt=""/>
-    <text>手机号码修改</text>
+    <image src="./img/购物车未选中@2x.png" alt=""/>
+    <view class="items">手机号码修改</view>
   </view>
 
   <view class="item">
-    <img src="./img/首页选中@2x.png" alt=""/>
-    <text>证件号码修改</text>
+    <image src="./img/首页选中@2x.png" alt=""/>
+    <view class="items">证件号码修改</view>
   </view>
 
   <view class="item">
-  <img src="./img/分类未选中@2x.png" alt=""/>
-    <text>申诉</text>
+  <image src="./img/分类未选中@2x.png" alt=""/>
+    <view class="items">申诉</view>
   </view>
  
   <view class="item">
-    <img src="./img/我的未选中@2x.png" alt=""/>
-    <text>使用指南</text>
+    <image src="./img/我的未选中@2x.png" alt=""/>
+    <view class="items">使用指南</view>
   </view>
 
   <view class="item">
-    <img src="./img/购物车未选中@2x.png" alt=""/>
-    <text>常见问题</text>
+    <image src="./img/购物车未选中@2x.png" alt=""/>
+    <view class="items">常见问题</view>
   </view>
 
   <view class="item">
-    <img src="./img/首页选中@2x.png" alt=""/>
-    <text>个人信息答疑</text>
+    <image src="./img/首页选中@2x.png" alt=""/>
+    <view class="items">个人信息答疑</view>
   </view>
 </view>

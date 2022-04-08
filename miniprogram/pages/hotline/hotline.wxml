@@ -1,0 +1,68 @@
+<!-- hotline.wxml -->
+<view class="container">
+  <view class="info" >
+    <view class="point">陕西</view>
+    <view class="deails">
+      <view class="detail1">
+        <view>工作时间：24小时</view>
+        <view>咨询电话：029-12320</view>
+      </view>
+      <button class="btn" style="width: 21%; height: 25px; font-size: 25rpx;"><image class="img" src="image/形状.png"/>拨打</button>
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">西安</view>
+    <view class="deails">
+      <view class="detail1">
+        <view>工作时间：24小时</view>
+        <view>咨询电话：029-12345</view>
+      </view>
+      <button class="btn" style="width: 21%; height: 25px; font-size: 25rpx;"><image class="img" src="image/形状.png"/>拨打</button>    
+      </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">西安新城区</view>
+    <view class="deails">
+      <view class="detail1">
+        <view>工作时间：24小时</view>
+        <view>咨询电话：029-87389738</view>
+      </view>
+      <button class="btn" style="width: 21%; height: 25px; font-size: 25rpx;"><image class="img" src="image/形状.png"/>拨打</button>  
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">西安碑林区</view>
+    <view class="deails">
+      <view class="detail1">
+        <view>工作时间：24小时</view>
+        <view>咨询电话：029-87606857</view>
+      </view>
+      <button class="btn" style="width: 21%; height: 25px; font-size: 25rpx;"><image class="img" src="image/形状.png"/>拨打</button>  
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">西安莲湖区</view>
+    <view class="deails">
+      <view class="detail1">
+        <view>工作时间：24小时</view>
+        <view>咨询电话：029-87408732</view>
+      </view>
+      <button class="btn" style="width: 18%; height: 25px; font-size: 25rpx;"><image class="img" src="image/形状.png"/>拨打</button>  
+    </view>
+  </view>
+
+  <view class="info" >
+    <view class="point">西安雁塔区</view>
+    <view class="deails">
+      <view class="detail1">
+        <view>工作时间：24小时</view>
+        <view>咨询电话：029-89353633</view>
+      </view>
+      <button class="btn" style="width: 21%; height: 25px; font-size: 25rpx;"><image class="img" src="image/形状.png"/>拨打</button>  
+    </view>
+  </view>
+</view>

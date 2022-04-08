@@ -1,5 +1,9 @@
 {
   "pages": [
+    "pages/problem/problem",
+    "pages/hotline/hotline",
+    "pages/areas/areas",
+    "pages/query/query",
     "pages/home/home",
     "pages/index/index",
     "pages/service/service",

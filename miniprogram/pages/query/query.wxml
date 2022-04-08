@@ -1,0 +1,32 @@
+<!-- query.wxml -->
+<view class="container">
+  <view class="info">
+    <view class="point">30街坊小广场采样点</view>
+    <view class="deails">地址：新城区公园南路与爱学路什字东南角</view>
+    <view class="deails">联系方式：029-83219510/029-83219153/400-100-9350</view>
+  </view>
+
+  <view class="info">
+    <view class="point">北四合窑南口采样点</view>
+    <view class="deails">地址：新城区长缨西路北四合窑南口</view>
+    <view class="deails">联系方式：029-84030503/029-84030567（节假日）/400-100-9350</view>
+  </view>
+
+  <view class="info">
+    <view class="point">东元西路采样点</view>
+    <view class="deails">地址：新城区东元西路38号院门口</view>
+    <view class="deails">联系方式：029-82543710/400-100-9350</view>
+  </view>
+
+  <view class="info">
+    <view class="point">福邸铭门广场采样点</view>
+    <view class="deails">地址：新城区万寿中路69号</view>
+    <view class="deails">联系方式：029-83219510/029-83219153/400-100-9350</view>
+  </view>
+
+  <view class="info">
+    <view class="point">寒森寨华清学府城西门广场便民采样点</view>
+    <view class="deails">地址：新城区韩森寨街道幸福南路85号</view>
+    <view class="deails">联系方式：029-83219510/029-83219153</view>
+  </view>
+</view>
